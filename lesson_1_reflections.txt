@@ -1,0 +1,13 @@
+I used the command interface to check the differences between the two.  The errors were easier to see because the computer went and searched for it.  It's more tedious and prone to human error when a person is simply trying to scan through to find it.
+
+You can take a look at previous versions to compare and contrast with new versions.  In so doing, if something goes wrong the change can be more easily identified.
+
+Manually committing is more precise and takes up less space than an auto save.  It would help with more quickly being able to determine what was changed.
+
+Git is customized for programming which has multiple files that all work together.  Google Docs works with docs where the files do not as often work together. 
+
+Git log pulls up the history for the particular repository.  You can then use git diff and two different lines of code to show the difference between the two.  A - will show removed lines and a + will show lines that have been added.
+
+Version control is very helpful as it allows the chance to go back and look at previous versions of code.  Someone can use git log to look into previous steps taken and find an exact thing that was done to make or fix a bug.
+
+I want to continue to be able to use it to go into a fairly complex program and pick out specific things that were changed.  To be able to pick out something and understand it in the context of the whole program.
