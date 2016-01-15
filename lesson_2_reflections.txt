@@ -1,1 +1,13 @@
 It adds a git file so it can be used on github and will track all of the commits from that point forward.  It allows for more git x commands.
+
+The staging area holds potential commits.  The working directory just holds the files and the repository holds things that have been fully determined to be committed/saved.  It offers the value of holding things in between the two to make sure the commit really needs to happen.
+
+You can manually add each file / change to the staging area then pull up the staging area itself to see what has been added.  In so doing, you can keep different files/changes apart and better keep control of them.
+
+Branches would allow for different versions of a file.  An experimental branch / version of the file could be added while still keeping a master file that does not have the change/experimentation.  This helps to keep things organized and to give some room to experiment without making a huge change to the master branch itself.  It avoids confusion.
+
+Diagrams help keep the different levels in check.  With git there are different branches that can spawn off from the master file, so drawing a diagram helps to keep it all together in spite of certain things heading off in different directions.
+
+Merging two branches will bring two things together.  The master branch, which may have had some new changes, and an experimental branch which also may have had some changes.  Bringing the two together will add all of the changes and can significantly alter a file.  The diagram is a logical breakdown of it.
+
+Auto merging is quicker and easier than manually doing so.  However, when encountering an error a manual merge is really the only option.
