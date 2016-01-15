@@ -2,3 +2,5 @@ You may want to use a remote repository if you won't be on the same device when 
 others to take a look at the repository as well.
 
 A mistake may occur in which case an auto pull would be problematic.
+
+A fork splits a repository from the original and keeps the "fork" on the new user's account so they can use it in different ways.  Cloning takes the original file or fork and makes an exact copy of it which shows previous commits.  A branch is making a new path off of the master where changes can be made.  It keeps it separate from the master so it helps with organization and gives more of a chance to experiment with different changes.
