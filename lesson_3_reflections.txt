@@ -1,2 +1,4 @@
 You may want to use a remote repository if you won't be on the same device when trying to work on the project.  Or this may also allow
 others to take a look at the repository as well.
+
+A mistake may occur in which case an auto pull would be problematic.
