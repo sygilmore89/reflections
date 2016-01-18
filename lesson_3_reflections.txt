@@ -8,3 +8,5 @@ A fork splits a repository from the original and keeps the "fork" on the new use
 It helps to know what the status of the remote is.  That wasy changes made locally can be further organized to not have any conflicts with the remote.
 
 Without Git or GitHub, you could collaborate through sending copies of files via email, text, etc.  They could also simply be shared or instructed in person.  With Git or GitHub the collaboration is much more seamless and has things built in to note what has or hasn't been changed or initiated.  Git/GitHub is more complex and can share more things, so it's not quite as easy but it does a lot more for you.  So the simple transfer of info would be easier but there would be a lot lost with simply using something like email/text.
+
+You may want to make a change in a separate branch when trying out a feature.  It helps to keep changes that could end up negative outside of the master branch itself.  It gives room for experimentation or helps to further organize things.  A simple change to the master may be fine, but anything very severe may be best done on its own branch.
